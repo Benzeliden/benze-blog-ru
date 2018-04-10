@@ -6,7 +6,7 @@
   <link href="/benze-blog-ru/atom.xml" rel="self"/>
   
   <link href="https://benzeliden.github.io/benze-blog-ru/"/>
-  <updated>2018-04-10T14:46:09.790Z</updated>
+  <updated>2018-04-10T15:25:12.255Z</updated>
   <id>https://benzeliden.github.io/benze-blog-ru/</id>
   
   <author>
@@ -17,18 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_images</title>
+    <title>Тест изображений</title>
     <link href="https://benzeliden.github.io/benze-blog-ru/2018-04-03-test-images/"/>
     <id>https://benzeliden.github.io/benze-blog-ru/2018-04-03-test-images/</id>
     <published>2018-04-03T11:40:28.000Z</published>
-    <updated>2018-04-10T14:46:09.790Z</updated>
+    <updated>2018-04-10T15:25:12.255Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Testing-images&quot;&gt;&lt;a href=&quot;#Testing-images&quot; class=&quot;headerlink&quot; title=&quot;Testing images&quot;&gt;&lt;/a&gt;Testing images&lt;/h2&gt;&lt;p&gt;tatata asdsadasd asdasdasd a&lt;/p&gt;
+      &lt;p&gt;Скриншот инвентаря внутри&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="Portals of Sacraland" scheme="https://benzeliden.github.io/benze-blog-ru/tags/Portals-of-Sacraland/"/>
+    
+      <category term="screenshots" scheme="https://benzeliden.github.io/benze-blog-ru/tags/screenshots/"/>
     
   </entry>
   
