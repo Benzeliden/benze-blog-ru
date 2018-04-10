@@ -3,11 +3,11 @@
   <title>Benzeliden Studios</title>
   
   
-  <link href="/benze-blog-ru/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://benzeliden.github.io/benze-blog-ru/"/>
-  <updated>2018-04-10T15:25:12.255Z</updated>
-  <id>https://benzeliden.github.io/benze-blog-ru/</id>
+  <link href="http://benzeliden.by/"/>
+  <updated>2018-04-10T19:09:40.587Z</updated>
+  <id>http://benzeliden.by/</id>
   
   <author>
     <name>Denis Krasakov</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Тест изображений</title>
-    <link href="https://benzeliden.github.io/benze-blog-ru/2018-04-03-test-images/"/>
-    <id>https://benzeliden.github.io/benze-blog-ru/2018-04-03-test-images/</id>
+    <link href="http://benzeliden.by/2018-04-03-test-images/"/>
+    <id>http://benzeliden.by/2018-04-03-test-images/</id>
     <published>2018-04-03T11:40:28.000Z</published>
-    <updated>2018-04-10T15:25:12.255Z</updated>
+    <updated>2018-04-10T19:09:40.587Z</updated>
     
     <summary type="html">
     
@@ -30,9 +30,9 @@
     </summary>
     
     
-      <category term="Portals of Sacraland" scheme="https://benzeliden.github.io/benze-blog-ru/tags/Portals-of-Sacraland/"/>
+      <category term="Portals of Sacraland" scheme="http://benzeliden.by/tags/Portals-of-Sacraland/"/>
     
-      <category term="screenshots" scheme="https://benzeliden.github.io/benze-blog-ru/tags/screenshots/"/>
+      <category term="screenshots" scheme="http://benzeliden.by/tags/screenshots/"/>
     
   </entry>
   
