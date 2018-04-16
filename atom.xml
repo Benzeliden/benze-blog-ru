@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Benzeliden Studios</title>
+  <title>Benzeliden Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://benzeliden.by/"/>
-  <updated>2018-04-10T19:09:40.587Z</updated>
+  <updated>2018-04-15T14:36:10.947Z</updated>
   <id>http://benzeliden.by/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Полезные плагины для Visual Studio Code</title>
+    <link href="http://benzeliden.by/2018-04-15-vs-code-plugins/"/>
+    <id>http://benzeliden.by/2018-04-15-vs-code-plugins/</id>
+    <published>2018-04-15T14:28:39.000Z</published>
+    <updated>2018-04-15T14:36:10.947Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Список плагинов, чтобы не забыть.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Полезности" scheme="http://benzeliden.by/tags/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D0%B8/"/>
+    
+      <category term="vs code" scheme="http://benzeliden.by/tags/vs-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Особенности работы с объектами timer в Corona</title>
+    <link href="http://benzeliden.by/2018-04-15-corona-timer/"/>
+    <id>http://benzeliden.by/2018-04-15-corona-timer/</id>
+    <published>2018-04-15T11:39:38.000Z</published>
+    <updated>2018-04-15T14:17:23.115Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Библиотека timer позволяет создавать, отменять, ставить на паузу и возобновлять отложенные действия. Однако такого простого функционала как проверка состояния таймера (на паузе ли он, выполнен или был отменен) в ней нет. Но как оказалось это легко исправить парой строчек кода.&lt;/p&gt;
+&lt;p&gt;Версия Corona на момент написания статьи - 2017.3184 &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Corona" scheme="http://benzeliden.by/tags/Corona/"/>
+    
+      <category term="timer" scheme="http://benzeliden.by/tags/timer/"/>
+    
+  </entry>
   
   <entry>
     <title>Тест изображений</title>
